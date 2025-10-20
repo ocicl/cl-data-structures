@@ -5,6 +5,6 @@ Data Structures and streaming algorithms for Common Lisp.
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/sirherrbatka/cl-data-structures.git |
-| commit  | d11e589a                                                   |
+| commit  | 7864f077                                                   |
 | systems | cl-data-structures                                         |
 |---------+------------------------------------------------------------|
